@@ -1,0 +1,73 @@
+body
+{
+color: black;
+font-family: 'Patrick Hand', cursive;
+}
+
+
+#heading
+{
+    background: rgb(255,255,255);
+background: linear-gradient(104deg, rgba(255,255,255,1) 0%, rgba(236,189,10,1) 17%, rgba(209,80,80,1) 32%, rgba(157,43,152,1) 46%, rgba(157,43,152,1) 61%, rgba(241,100,195,1) 74%, rgba(222,143,103,1) 86%);
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 10%;
+    font-family: 'Patrick Hand', cursive;
+}
+
+.heading_div
+{
+    float: none;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+.heading_div2
+{
+    font-size: 18px;
+    background-color: #C468BF ;
+}
+
+.result_para_tag
+{
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    margin-top: 150px;
+
+}
+
+#ty
+{
+    background: rgb(255,255,255);
+background: linear-gradient(104deg, rgba(255,255,255,1) 0%, rgba(255,225,113,1) 17%, rgba(218,125,125,1) 32%, rgba(199,137,196,1) 46%, rgba(194,91,189,1) 61%, rgba(233,166,211,1) 74%, rgba(221,182,163,1) 86%);
+}
+
+.btn
+{
+    background: rgb(255,255,255);
+    background: linear-gradient(104deg, rgba(255,255,255,1) 0%, rgba(238,224,172,1) 17%, rgba(240,165,165,1) 32%, rgba(247,186,244,1) 49%, rgba(254,181,231,1) 72%, rgba(255,199,172,1) 87%);
+    color: black;
+}
+
